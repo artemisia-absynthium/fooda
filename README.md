@@ -1,3 +1,6 @@
+[![Node.js CI](https://github.com/artemisia-absynthium/fooda/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/artemisia-absynthium/fooda/actions/workflows/node.js.yml)
+[![CodeQL](https://github.com/artemisia-absynthium/fooda/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/artemisia-absynthium/fooda/actions/workflows/codeql-analysis.yml)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
